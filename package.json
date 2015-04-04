@@ -1,0 +1,13 @@
+{
+  "name": "Web-Optimization",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-imagemin": "^0.9.4",
+    "grunt-contrib-uglify": "^0.8.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-ngrok": "^0.2.2"
+  }
+}
